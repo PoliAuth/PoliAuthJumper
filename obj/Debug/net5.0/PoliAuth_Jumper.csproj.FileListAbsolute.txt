@@ -1,0 +1,16 @@
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/dist/PoliAuth_Jumper
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/dist/PoliAuth_Jumper.deps.json
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/dist/PoliAuth_Jumper.runtimeconfig.json
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/dist/PoliAuth_Jumper.runtimeconfig.dev.json
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/dist/PoliAuth_Jumper.dll
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/dist/ref/PoliAuth_Jumper.dll
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/dist/PoliAuth_Jumper.pdb
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/obj/Debug/net5.0/PoliAuth_Jumper.csproj.AssemblyReference.cache
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/obj/Debug/net5.0/PoliAuth_Jumper.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/obj/Debug/net5.0/PoliAuth_Jumper.AssemblyInfoInputs.cache
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/obj/Debug/net5.0/PoliAuth_Jumper.AssemblyInfo.cs
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/obj/Debug/net5.0/PoliAuth_Jumper.csproj.CoreCompileInputs.cache
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/obj/Debug/net5.0/PoliAuth_Jumper.dll
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/obj/Debug/net5.0/ref/PoliAuth_Jumper.dll
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/obj/Debug/net5.0/PoliAuth_Jumper.pdb
+/home/runner/work/PoliAuthJumper/PoliAuthJumper/obj/Debug/net5.0/PoliAuth_Jumper.genruntimeconfig.cache

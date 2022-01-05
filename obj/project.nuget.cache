@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+kADOxLdO7i1jW0WqLA0QuIdNqznDJXzXcHRvC1f+rsvfQWQUpVOZXLfzJ9ZLOJRenhtlxuqeqkSP066/f9Wtw==",
+  "success": true,
+  "projectFilePath": "/home/runner/work/PoliAuthJumper/PoliAuthJumper/PoliAuth_Jumper.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.netcore.app.runtime.win-x64/5.0.13/microsoft.netcore.app.runtime.win-x64.5.0.13.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/5.0.13/microsoft.aspnetcore.app.runtime.win-x64.5.0.13.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.netcore.app.host.win-x64/5.0.13/microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

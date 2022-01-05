@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PoliAuth_Jumper/1.0.0": {
+        "runtime": {
+          "PoliAuth_Jumper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PoliAuth_Jumper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
