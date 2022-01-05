@@ -25,7 +25,7 @@ jobs:
       run: dotnet build ./PoliAuth_Jumper.csproj -o ./dist
       
     - name: publish
-      run: dotnet publish -c Release -r win10-x64 -o ./dist
+      run: dotnet publish -r win-x64 /p:PublishSingleFile=true /p:IncludeNativeLibrariesForSelfExtract=true --self-contained true -o ./distWin-x64
 
     - name: Git add
       run: git add .
